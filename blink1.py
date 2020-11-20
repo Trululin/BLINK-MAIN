@@ -386,7 +386,7 @@ def blackpink() :
 		input("\n\n\tPRESS ENTER TO CONTINUE")
 		blackpink()
 
-#THIS SHT FINALLY WORKS OMG TO CHANGE THE TRACKS
+#THIS FINALLY WORKS OMG TO CHANGE THE TRACKS
 def songs(hola, code, date) : 
 	system("cls")
 	A = 0
@@ -586,7 +586,7 @@ def update_disco() :
 		input("\n\n\tPRESS ENTER TO CONTINUE")
 		discography()
 
-#add to discography this sht work omg
+#add to discography this work omg
 def up_2_date(date, album, code, kks, year, tracks) : 
 	jumlah = len(tracks)
 
@@ -996,7 +996,7 @@ def update_reality() :
 		input("\n\n\tPRESS ENTER TO CONTINUE")
 		discography()
 
-#add to discography this sht work omg
+#add to discography this work omg
 def up_date(date, title, about, episode, year, code) : 
 	years = str(year)
 
